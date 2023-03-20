@@ -1,6 +1,6 @@
 # Python hangman
 
-Source code for a python hangman game. Tutorial can be found on [youtube]().
+Source code for a python hangman game. Tutorial can be found on [youtube](https://www.youtube.com/watch?v=G0Cl_3rWmlI).
 
 Usage:
 
